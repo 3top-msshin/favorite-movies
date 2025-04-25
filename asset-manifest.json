@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/favorite-movies/static/js/main.d3ed129f.js",
+    "main.js": "/favorite-movies/static/js/main.2710c64b.js",
     "index.html": "/favorite-movies/index.html",
-    "main.d3ed129f.js.map": "/favorite-movies/static/js/main.d3ed129f.js.map"
+    "main.2710c64b.js.map": "/favorite-movies/static/js/main.2710c64b.js.map"
   },
   "entrypoints": [
-    "static/js/main.d3ed129f.js"
+    "static/js/main.2710c64b.js"
   ]
 }
